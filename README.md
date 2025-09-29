@@ -21,8 +21,10 @@
 ## 🚀 진행 상황
 - [x] Section 01 완료
 - [x] Section 02 완료
-- [ ] Section 03 진행 중...
-- [ ] Section 04 ~ 이후 학습 예정
+- [x] Section 03 완료
+- [ ] Section 04 진행중
+- [ ] Section 05
+- [ ] ~ 이후 학습 예정
 
 ## 📖 정리한 내용
 [kwonyuujin 벨로그](https://velog.io/@kwonyuujin)
