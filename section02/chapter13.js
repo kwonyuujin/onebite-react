@@ -97,4 +97,4 @@ add10(0)
     console.log(error);
 });
 // 콜백함수 안에서 계속 콜백함수를 호출하는 형태 -> 콜백 지옥(callback hell)
-// 콜백지옥을 방지하기 위해 새로운 promise 객체를 반환
+// 콜백지옥을 방지하기 위해 새로운 promise 객체를 반환`
