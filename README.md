@@ -22,8 +22,10 @@
 - [x] Section 01 완료
 - [x] Section 02 완료
 - [x] Section 03 완료
-- [ ] Section 04 진행중
-- [ ] Section 05
+- [x] Section 04 완료
+- [x] Section 05 완료
+- [x] Section 06 완료
+- [ ] Section 07 진행중
 - [ ] ~ 이후 학습 예정
 
 ## 📖 정리한 내용
